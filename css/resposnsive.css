@@ -3,6 +3,9 @@
     body{
         font-size:25px;
     }
+    p{
+        font-size:35px;
+    }
     #naslovna h1{
         font-size:60px;
         padding-top: 35px;
@@ -15,9 +18,9 @@
         width:100%;
         float:none;
     }
-    #tekst p{
+   /* #tekst p{
         font-size:25px;
-    }
+    }*/
     #sadrzaj{
         width:100%;
     }
@@ -61,9 +64,9 @@
         padding:10px;
         margin:0px;
     }
-    .oIgracu p{
+    /*.oIgracu p{
         font-size:20px;
-    }
+    }*/
     /*Stranoca Higlights*/
     .high{
         width:45%;
@@ -98,6 +101,9 @@
 }
 @media screen and (max-width:500px){
     /*Stranica index*/
+    p{
+        font-size:35px;
+    }
     body{
         font-size:25px;
     }
@@ -113,9 +119,9 @@
         width:100%;
         float:none;
     }
-    #tekst p{
+   /* #tekst p{
         font-size:35px;
-    }
+    }*/
     #sadrzaj{
         width:100%;
     }
@@ -150,9 +156,9 @@
         padding:10px;
         margin:0px;
     }
-    .oIgracu p{
+    /*.oIgracu p{
         font-size:20px;
-    }
+    }*/
     /*Stranoca Higlights*/
     .high{
         width:100%;
