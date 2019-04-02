@@ -22,6 +22,9 @@
         width:100%;
         margin:0px;
     }
+    #nav ul li{
+        display: block;
+    }
     .navfoot ul li{
         margin-right:10px;
         padding-left:10px;
@@ -115,6 +118,9 @@
     }
     #footOkvir{
         width:100%;
+    }
+    #nav ul li{
+        display: block;
     }
     .navfoot ul li{
         margin-right:0px;
