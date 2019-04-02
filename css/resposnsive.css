@@ -2,7 +2,7 @@
     /*Stranica index*/
     
     #naslovna h1{
-        padding-top: 35px;
+        padding-top: 45px;
     }
     #levo{
         width:100%;
@@ -96,8 +96,8 @@
 @media screen and (max-width:500px){
     /*Stranica index*/
     #naslovna h1{
-        font-size:60px;
-        padding-top: 35px;
+        font-size:40px;
+        padding-top: 45px;
     }
     #levo{
         width:100%;
