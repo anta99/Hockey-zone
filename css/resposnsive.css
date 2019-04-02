@@ -1,14 +1,7 @@
 @media screen and (max-width:1200px){
     /*Stranica index*/
-    body{
-        font-size:25px;
-    }
-    p{
-        font-size:35px;
-    }
     
     #naslovna h1{
-        font-size:60px;
         padding-top: 35px;
     }
     #levo{
@@ -105,12 +98,6 @@
 }
 @media screen and (max-width:500px){
     /*Stranica index*/
-    p{
-        font-size:35px;
-    }
-    body{
-        font-size:25px;
-    }
     #naslovna h1{
         font-size:60px;
         padding-top: 35px;
