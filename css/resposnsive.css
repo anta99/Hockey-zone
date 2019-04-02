@@ -40,9 +40,6 @@
     .rezultat{
         padding: 0px;
     }
-    .rezultat p{
-        font-size: 25px;
-    }
     /*Stanica Top leagues*/
     .ligatekst{
         width:100%;
@@ -134,9 +131,6 @@
     }
     .rezultat{
         padding: 10px;
-    }
-    .rezultat p{
-        font-size: 20px;
     }
     /*Stanica Top leagues*/
     .ligatekst,.ligaslika{
